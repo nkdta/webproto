@@ -1,0 +1,17 @@
+{
+"companyName": "DreamTeam Apps",
+"productName": "Magic Chemistry",
+"productVersion": "0.2",
+"dataUrl": "MagicChemistry.data.unityweb",
+"wasmCodeUrl": "MagicChemistry.wasm.code.unityweb",
+"wasmFrameworkUrl": "MagicChemistry.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "MagicChemistry.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}
